@@ -16,10 +16,10 @@ import (
 	"time"
 	"unicode/utf8"
 
-	assets "github.com/ernat-soltanbekov/discuss-hub"
-	"github.com/ernat-soltanbekov/discuss-hub/internal/auth"
-	"github.com/ernat-soltanbekov/discuss-hub/internal/db"
-	"github.com/ernat-soltanbekov/discuss-hub/internal/insights"
+	assets "github.com/GhostOfAstana/discuss-hub"
+	"github.com/GhostOfAstana/discuss-hub/internal/auth"
+	"github.com/GhostOfAstana/discuss-hub/internal/db"
+	"github.com/GhostOfAstana/discuss-hub/internal/insights"
 	"golang.org/x/crypto/bcrypt"
 )
 

@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ernat-soltanbekov/discuss-hub/internal/db"
+	"github.com/GhostOfAstana/discuss-hub/internal/db"
 	"github.com/gofrs/uuid/v5"
 	"github.com/mattn/go-sqlite3"
 	"golang.org/x/crypto/bcrypt"

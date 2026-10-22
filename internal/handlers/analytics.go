@@ -3,7 +3,7 @@ package handlers
 import (
 	"context"
 	"encoding/json"
-	"github.com/ernat-soltanbekov/discuss-hub/internal/insights"
+	"github.com/GhostOfAstana/discuss-hub/internal/insights"
 	"net/http"
 	"time"
 )

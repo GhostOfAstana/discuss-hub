@@ -13,7 +13,7 @@
 Нужны **Go 1.26+**, C-компилятор (GCC/Clang) и включённый CGO: драйвер SQLite компилирует SQLite из исходников. При первом запуске Go скачает три разрешённые зависимости из `go.mod`.
 
 ```sh
-git clone https://github.com/ernat-soltanbekov/discuss-hub.git
+git clone https://github.com/GhostOfAstana/discuss-hub.git
 cd discuss-hub
 go run ./cmd/server
 ```

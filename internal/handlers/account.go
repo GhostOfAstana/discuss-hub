@@ -2,7 +2,7 @@ package handlers
 
 import (
 	"errors"
-	"github.com/ernat-soltanbekov/discuss-hub/internal/auth"
+	"github.com/GhostOfAstana/discuss-hub/internal/auth"
 	"net/http"
 	"net/url"
 	"time"

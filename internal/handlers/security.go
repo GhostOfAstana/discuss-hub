@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ernat-soltanbekov/discuss-hub/internal/auth"
+	"github.com/GhostOfAstana/discuss-hub/internal/auth"
 )
 
 const MaxFormBytes = 256 << 10

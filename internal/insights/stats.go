@@ -7,7 +7,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/ernat-soltanbekov/discuss-hub/internal/db"
+	"github.com/GhostOfAstana/discuss-hub/internal/db"
 )
 
 type LabeledPost struct {

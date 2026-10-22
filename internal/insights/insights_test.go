@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ernat-soltanbekov/discuss-hub/internal/insights"
-	"github.com/ernat-soltanbekov/discuss-hub/internal/testutil"
+	"github.com/GhostOfAstana/discuss-hub/internal/insights"
+	"github.com/GhostOfAstana/discuss-hub/internal/testutil"
 )
 
 func TestSentimentFormula(t *testing.T) {

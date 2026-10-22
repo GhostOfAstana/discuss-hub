@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ernat-soltanbekov/discuss-hub/internal/db"
+	"github.com/GhostOfAstana/discuss-hub/internal/db"
 	"github.com/gofrs/uuid/v5"
 	"golang.org/x/crypto/bcrypt"
 )

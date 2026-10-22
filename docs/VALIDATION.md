@@ -46,7 +46,7 @@ Benchmark sentiment: **38 267 ns/op**, **72 320 B/op**, **8 allocs/op** для �
 
 **Docker build/run в локальной среде:** на этом учебном компьютере Docker CLI установлен, но движок не стал доступен. До запуска Desktop сокет отсутствовал; после попытки запуска API отвечал HTTP 500, статус оставался `starting`. Поэтому успешная сборка и работа контейнера **не заявляются**. Проверены Dockerfile, наличие pinned base images, Compose-конфигурация и синтаксис smoke-script. Для закрытия пункта нужен работающий Docker: `sh scripts/container-smoke.sh` или CI job `container`.
 
-**GitHub / CI:** репозиторий — [ernat-soltanbekov/discuss-hub](https://github.com/ernat-soltanbekov/discuss-hub). Этот отчёт фиксирует локальные проверки до публикации. Результат удалённой проверки конкретного коммита смотрите в [GitHub Actions](https://github.com/ernat-soltanbekov/discuss-hub/actions): workflow выполняет отдельные задания Go и Docker. Локальные результаты не подменяют статус этих заданий.
+**GitHub / CI:** репозиторий — [GhostOfAstana/discuss-hub](https://github.com/GhostOfAstana/discuss-hub). Этот отчёт фиксирует локальные проверки до публикации. Результат удалённой проверки конкретного коммита смотрите в [GitHub Actions](https://github.com/GhostOfAstana/discuss-hub/actions): workflow выполняет отдельные задания Go и Docker. Локальные результаты не подменяют статус этих заданий.
 
 Живое объяснение проекта, предусмотренное аудитом, должен выполнить владелец проекта. Для подготовки предусмотрены архитектурная схема, разбор запроса, SQL и вопросы в [ARCHITECTURE.md](ARCHITECTURE.md).
 

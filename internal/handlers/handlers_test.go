@@ -13,8 +13,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ernat-soltanbekov/discuss-hub/internal/db"
-	"github.com/ernat-soltanbekov/discuss-hub/internal/testutil"
+	"github.com/GhostOfAstana/discuss-hub/internal/db"
+	"github.com/GhostOfAstana/discuss-hub/internal/testutil"
 	"golang.org/x/crypto/bcrypt"
 )
 

@@ -1,4 +1,4 @@
-module github.com/ernat-soltanbekov/discuss-hub
+module github.com/GhostOfAstana/discuss-hub
 
 go 1.26.0
 

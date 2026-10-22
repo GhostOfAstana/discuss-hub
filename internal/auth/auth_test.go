@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ernat-soltanbekov/discuss-hub/internal/auth"
-	"github.com/ernat-soltanbekov/discuss-hub/internal/testutil"
+	"github.com/GhostOfAstana/discuss-hub/internal/auth"
+	"github.com/GhostOfAstana/discuss-hub/internal/testutil"
 	"github.com/gofrs/uuid/v5"
 	"golang.org/x/crypto/bcrypt"
 )

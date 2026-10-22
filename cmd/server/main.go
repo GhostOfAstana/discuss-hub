@@ -14,9 +14,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ernat-soltanbekov/discuss-hub/internal/auth"
-	"github.com/ernat-soltanbekov/discuss-hub/internal/db"
-	"github.com/ernat-soltanbekov/discuss-hub/internal/handlers"
+	"github.com/GhostOfAstana/discuss-hub/internal/auth"
+	"github.com/GhostOfAstana/discuss-hub/internal/db"
+	"github.com/GhostOfAstana/discuss-hub/internal/handlers"
 	"golang.org/x/crypto/bcrypt"
 )
 

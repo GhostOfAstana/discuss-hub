@@ -3,7 +3,7 @@ package handlers
 import (
 	"errors"
 	"fmt"
-	"github.com/ernat-soltanbekov/discuss-hub/internal/db"
+	"github.com/GhostOfAstana/discuss-hub/internal/db"
 	"net/http"
 	"net/url"
 	"strconv"
